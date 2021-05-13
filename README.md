@@ -1,7 +1,7 @@
 # Integrated Library System Application
 ## BT2102: Data Management and Visualisation (AY20/21 Sem2)
 
-This repository contains an Integrated Library System database application that was built as part of a group assignment in the module BT2102: Data Management and Visualisation that I took in the National University of Singapore's School of Computing.
+This repository contains an Integrated Library System database application that was built over 5 weeks as part of a group assignment in the module BT2102: Data Management and Visualisation that I took in the National University of Singapore's School of Computing.
 
 Tech Stack: 
 - Python
@@ -13,7 +13,7 @@ Tech Stack:
 ### About
 The City Library Web Application is an integrated library system database to manage library operations, such as book borrowing, returning and other operations efficiently and effectively.
 
-## Functionalities of the app
+### Functionalities of the app
 1. User registration
 
 Each new user signs up as a member with a unique 4-character user ID
@@ -44,3 +44,11 @@ Fines can be paid with credit or debit card
 7. Administrative User
 
 There is an admin user that can be accessed by City Library staff to get an overview on the status of books in the library and members info.
+
+#### Collaborators:
+RENEE LEE
+AMANDA LIM JIA WEN
+ONG SIJIE GRACE
+RHEA SHARMA
+TAN KOK LEE
+LI ZILU
