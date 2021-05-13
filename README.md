@@ -46,9 +46,9 @@ Fines can be paid with credit or debit card
 There is an admin user that can be accessed by City Library staff to get an overview on the status of books in the library and members info.
 
 #### Collaborators:
-RENEE LEE
-AMANDA LIM JIA WEN
-ONG SIJIE GRACE
-RHEA SHARMA
-TAN KOK LEE
-LI ZILU
+Renee Lee,
+Amanda Lim Jia Wen,
+Ong Sijie Grace,
+Rhea Sharma,
+Tan Kok Lee,
+Li Zilu
