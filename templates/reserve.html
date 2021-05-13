@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="{{url_for('static', filename = 'css/bootstrap.min.css')}}" rel="stylesheet">
+    <div class="panel=heading">
+        {% block body %}
+
+        <h2><a class="pull-left btn btn-success" href="http://localhost:5000/search">Back to Main Search Page</a> </h2>
+    </div>
+
+    <div>
+        <tr>
+            <th>Reserve Result</th>
+        </tr>
+
+        <tr>
+            <td>{{display}}</td>
+        </tr>
+    </div>
+
+    <div id="myModal" class="modal fade" role="dialog">
+
+
+        <div class="modal-dialog">
+
+
+            <div class="modal-content">
+
+
+
+
+
+                <div class="modal-body">
+
+
+
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+
+
+    </div>
+
+
+    </div>
+
+
+    {% endblock %}
+
+
+    <script type="text/javascript" src="{{url_for('static', filename='js/jquery-3.2.1.min.js') }}"></script>
+
+    <script type="text/javascript" src="{{url_for('static', filename = 'js/bootstrap.min.js')}}"></script>
